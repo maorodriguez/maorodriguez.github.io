@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "maorodriguez",
-    "repositoryName": "maorodriguez.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"maorodriguez","repositoryName":"maorodriguez.github.io","branch":"master"},"site":{"url":"https://maorodriguez.github.io"},"socialnetwork":{"email":"contacto@maorodiguez.com","twitter":"@xmao","facebook":"xmaorodriguez"},"theme":{"name":"Casper","url":"//maorodriguez.github.io/themes/Casper"}}
